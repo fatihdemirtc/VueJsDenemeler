@@ -1,0 +1,60 @@
+﻿{
+  "cart": [
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 0",
+      "seller": "Fatih",
+      "isAvailable": true,
+      "isEligible": true,
+      "price": "11.50"
+    },
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 1 ",
+      "seller": "Demir",
+      "isAvailable": false,
+      "isEligible": true,
+      "price": "12.50"
+    },
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 2",
+      "seller": "Enes",
+      "isAvailable": true,
+      "isEligible": false,
+      "price": "13.50"
+    },
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 3",
+      "seller": "İsa",
+      "isAvailable": true,
+      "isEligible": true,
+      "price": "14.50"
+    }
+  ],
+  "saved": [
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 4 ",
+      "seller": "Fatih",
+      "isAvailable": true,
+      "isEligible": true,
+      "price": "15.50"
+    },
+    {
+      "url": "https://amazon.com/gp/product/B010S9N6OO/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zK-YuzOVL._AA100_.jpg",
+      "name": "ÜRÜN 5 ",
+      "seller": "Rıza",
+      "isAvailable": false,
+      "isEligible": true,
+      "price": "16.50"
+    }
+  ]
+}
